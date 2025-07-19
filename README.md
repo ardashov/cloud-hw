@@ -32,6 +32,6 @@
 
 ![Название скриншота 1](https://github.com/ardashov/cloud-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)`
 
-![Название скриншота 1](ссылка на скриншот 1)`
+![Название скриншота 1](https://github.com/ardashov/cloud-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201_1.png)`
 
 ---
